@@ -4,7 +4,7 @@
 **gnwncpta/gnwncpta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
+<img src="https://i.imgur.com/FcmUB15.png" width="50px">
 
 - 🔭 I’m currently **coding** or **designing** 👨‍💻
 - 🌱 I’m currently learning Javascript Library which is **ReactJS** 🧔
