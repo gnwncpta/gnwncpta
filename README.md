@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **web development projects** 🌐
 - 🤔 I’m looking for help with **you** 💪
 - 💬 Ask me about **how to improve problem solving?**
-- 📫 How to reach me: **gnwncpta@gmail.com** ![alt text](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg)
+- 📫 How to reach me: **gnwncpta@gmail.com** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="29px">
 - 😄 Pronouns: He/Him 🧔
 - ⚡ Fun fact: **I ever coding without dizzy** 🧔
 
