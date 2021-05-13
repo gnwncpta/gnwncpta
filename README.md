@@ -5,6 +5,7 @@
 -->
 
 <img src="https://i.imgur.com/FcmUB15.png" width="460px">
+---
 
 - 🔭 I’m currently **coding** or **designing** 👨‍💻
 - 🌱 I’m currently learning Javascript Library which is **ReactJS** 🧔
