@@ -9,7 +9,7 @@
 ---------------------------------------------------------
 
 - 🔭 I’m currently **coding** or **designing** 👨‍💻
-- 🌱 I’m currently learning Javascript Library which is **ReactJS** 🧔
+- 🌱 I’m currently learning Javascript **Library** 🧔
 - 👯 I’m looking to collaborate on **Front End Projects** with you 🌐
 - 💬 Ask me about **how to improve problem solving?**
 - 😄 Pronouns: He/Him 🧔
