@@ -4,7 +4,7 @@
 **gnwncpta/gnwncpta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://i.imgur.com/FcmUB15.png" width="460px">
+<img src="https://i.imgur.com/FcmUB15.png" width="360px">
 
 ---------------------------------------------------------
 
